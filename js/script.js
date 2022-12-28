@@ -25,7 +25,7 @@ const loop = setInterval(() => {
 
         grass.style.animation= 'none';
 
-        pikachu.src = '/images/gameover.png';
+        pikachu.src = './images/gameover.png';
         pikachu.style.width = '150px'
         pikachu.style.marginLeft = "60px"
         pikachu.style.marginBottom = "0px"
